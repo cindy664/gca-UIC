@@ -1,4 +1,129 @@
-{
-"secondaryBrandColor":"#ffb300",
-"primaryBrandColor":"#000000",
-} 
+[
+  {
+    "item": "home",
+    "schoolname": "University of Illinois at Chicago",
+    "abbreviation": "UIC",
+    "genericProgramName": "The Global Career Accelerator",
+    "secondaryBrandColor": "#d50032",
+    "primaryBrandColor": "#011E63",
+    "buttonColor": "#d50032",
+    "buttonTextColor": "#ffffff",
+    "logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-dynamic-email/uic.png",
+    "cobranded_logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-cobrand-gca-dynamic-email/uic.png",
+    "partner_id": "0014T00000ZyjhXQAR",
+    "programName": "UIC Global Career Accelerator",
+    "termsandConditionsPolicy": "https://www.vpaa.uillinois.edu/resources/web_privacy",
+    "registrationMessage": "Registration is now open.",
+    "credits": "3 UIC credits",
+    "startDate": "May 18",
+    "endDate": "August 7"
+  },
+  {
+    "item": "about",
+    "schoolname": "University of Illinois at Chicago",
+    "genericProgramName": "The Global Career Accelerator",
+    "schoolFullAddress": "1253 S Halsted St, Chicago, IL 60607",
+    "abbreviation": "UIC",
+    "phone": "(773) 917-0403",
+    "credits": "3 UIC credits",
+    "programFee": "+ 1,500",
+    "seasonYear": "Summer 2026",
+    "term": "Summer",
+    "season": "Summer",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "explore-tracks",
+    "credits": "3 UIC credits",
+    "abbreviation": "UIC",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "digital-marketing",
+    "schoolname": "University of Illinois at Chicago",
+    "trackTitle": "Digital Marketing Track",
+    "credits": "3 UIC credits",
+    "abbreviation": "UIC",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "BA 194 (CRN: 49019)",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 18",
+    "term1EndDate": "August 7",
+    "term2StartDate": "August 24",
+    "term2EndDate": "December 11"
+  },
+  {
+    "item": "coding-for-web",
+    "schoolname": "University of Illinois at Chicago",
+    "trackTitle": "Web Development for Everyone Track",
+    "credits": "3 UIC credits",
+    "abbreviation": "UIC",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "BA 194 (CRN: 49019)",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 18",
+    "term1EndDate": "August 7",
+    "term2StartDate": "August 24",
+    "term2EndDate": "December 11"
+  },
+  {
+    "item": "data-analytics",
+    "schoolname": "University of Illinois at Chicago",
+    "trackTitle": "Data Analytics Track",
+    "credits": "3 UIC credits",
+    "abbreviation": "UIC",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "BA 194 (CRN: 49019)",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 18",
+    "term1EndDate": "August 7",
+    "term2StartDate": "August 24",
+    "term2EndDate": "December 11"
+  },
+  {
+    "item": "coding-for-data",
+    "schoolname": "University of Illinois at Chicago",
+    "trackTitle": "Coding for Data Track",
+    "credits": "3 UIC credits",
+    "abbreviation": "UIC",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "BA 194 (CRN: 49019)",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 18",
+    "term1EndDate": "August 7",
+    "term2StartDate": "August 24",
+    "term2EndDate": "December 11"
+  },
+  {
+    "item": "career-rotation",
+    "schoolname": "University of Illinois at Chicago",
+    "trackTitle": "Career Rotation Track",
+    "credits": "3 UIC credits",
+    "abbreviation": "UIC",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "BA 194 (CRN: 49019)",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 18",
+    "term1EndDate": "August 7",
+    "term2StartDate": "August 24",
+    "term2EndDate": "December 11"
+  },
+  {
+    "item": "reserve-a-seat",
+    "programName": "UIC Global Career Accelerator",
+    "registrationMessage": "Registration is now open.",
+    "phone": "(773) 917-0403",
+    "abbreviation": "UIC"
+  },
+  {
+    "item": "begin",
+    "credits": "3 UIC credits",
+    "abbreviation": "UIC",
+    "phone": "(773) 917-0403"
+  }
+]
